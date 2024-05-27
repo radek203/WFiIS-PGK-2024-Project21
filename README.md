@@ -7,7 +7,7 @@ In today's digital age, embedding additional information in digital photo files 
 
 Our project aims to create an application in which user can load photos, browse and modify its' metadata (EXIF and IPTC). It has many options to modify the photos and save those changes into new files
 
-![image](https://github.com/radek203/WFiIS-PGK-2024-Project21/assets/116189519/2db4ba73-45ae-41d0-85fc-721719aa7962)
+![image](https://github.com/radek203/WFiIS-PGK-2024-Project21/assets/57212337/8678aa09-4ee4-49b2-aa83-f7ecd3ce8743)
 
 ## User Interface
 
