@@ -31,10 +31,3 @@ The user interface consists of the following components:
 - **UI Design Tool**: wxFormBuilder
 
 The FreeImage library was essential for easy access to IPTC and EXIF data.
-
-## How to Run the Project
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/photo-metadata-viewer.git
-    ```
