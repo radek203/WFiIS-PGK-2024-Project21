@@ -5,7 +5,7 @@ Project task no. 21 for "Fundamentals of Computer Graphics" course, 2024 (AGH, W
 
 In today's digital age, embedding additional information in digital photo files has become standard practice. The two most popular standards, **EXIF** (Exchangeable Image File Format) and **IPTC** (International Press Telecommunications Council), allow for storing various data in image files. EXIF stores information such as the date and time a photo was taken, camera settings (like exposure time, aperture, ISO sensitivity), and camera model details. IPTC, commonly used in journalism and publishing, allows adding diverse information to images, such as headlines, descriptions, keywords, authorship, and copyright details. However, these metadata are not always easily accessible without special tools.
 
-Our project aims to create an application in which user can load photos, browse and modify its' metadata (EXIF and IPTC). It has many options to modify the photos and save those changes into new files
+Our project aims to create an application in which users can load photos, browse, and modify their metadata (EXIF and IPTC). It offers many options to modify the photos and save those changes into new files.
 
 ![image](https://github.com/radek203/WFiIS-PGK-2024-Project21/assets/57212337/8678aa09-4ee4-49b2-aa83-f7ecd3ce8743)
 
